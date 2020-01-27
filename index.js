@@ -1,5 +1,5 @@
 // Write your solution in this file!
-let obj={foo:"bar"}
+let driver={foo:"bar"}
 
 function updateDriverWithKeyAndValue(driver,key,value){
 return object.assign({},driver,{[key]:value})
