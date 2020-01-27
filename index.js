@@ -15,6 +15,8 @@ function destructivelyDeleteFromDriverByKey(driver,key){
   return driver
 }
 
-function 
+function deleteFromDriverByKey(driver,key){
+  let newO = 
+}
 
 
